@@ -6,7 +6,7 @@ The model will consider the last word of a particular sentence and predict the n
 <h2>Tools and Technologies</h2>
 <ol>
   <li>Python3</li>
-  <li>Keras</li>
+  <li>cKeras</li>
   <li>Jupyter Notebook</li>
   <li>Html </li>
   <li>Css</li>
