@@ -8,7 +8,8 @@ The model will consider the last word of a particular sentence and predict the n
   <li>Python3</li>
   <li>Keras</li>
   <li>Jupyter Notebook</li>
-  <li>Html Css</li>
+  <li>Html </li>
+  <li>Css</li>
   <li>php</li>
 </ol>
 
